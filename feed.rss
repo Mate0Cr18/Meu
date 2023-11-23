@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+ <channel>
+ <title>Games</title>
+ <description>Games center</description>
+ <link>https://mate0cr18.github.io/Meu/</link>
+ <pubDate>Thu, 23 Nov 2023 12:38:02 GMT</pubDate>
+ <managingEditor>a23mateocr@iessanclemente.net</managingEditor>
+ <item>
+ <title>Ikariam</title>
+ <link>https://mate0cr18.github.io/Meu/</link>
+ <pubDate>Thu, 23 Nov 2023 12:38:02 GMT</pubDate>
+ <description>Some text.</description>
+ </item>
+ </channel>
+</rss>
